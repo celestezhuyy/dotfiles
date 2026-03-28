@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = celestezhuyy@gmail.com
+	name = Celeste Zhu
